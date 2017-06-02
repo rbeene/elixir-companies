@@ -73,6 +73,7 @@ We specialize in Ruby on Rails, Ember, Elixir, Phoenix and mobile. We offer cons
 * [Vinsol](http://vinsol.com) ([blog](http://vinsol.com/blog)) - Leading Web and Mobile Product Development company with expertise in Ecommerce. Maintainers of [SpreeCommerce(Rails)](https://github.com/spree/spree) and [NectarCommerce(Elixir/Phoneix)](https://github.com/vinsol/nectarcommerce) Open source projects.
 * [wemake.services](http://wemake.services/) ([GitHub](https://github.com/wemake-services)) - We make, craft, and develop web services and mobile applications in Moscow, Russia. We also host [elixir meetups in Moscow](http://elixir-lang.moscow).
 * [woumedia](http://woumedia.com) - Software House and Digital Design Agency from Copenhagen.
+* [Echobind](https://echobind.com) - As a full-service agency, we leverage Elixir to drive robust web and mobile applications. From design and implementation to trainings and code audits, we help our clients achieve. 
 
 #### Communication
 
